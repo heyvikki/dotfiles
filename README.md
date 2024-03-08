@@ -4,14 +4,14 @@
 
 <h1>
   <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/vikfp/dotfiles?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/stavkv/dotfiles?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
   </a>
 </h1>
 
 <p align="center"> 
-<img src="https://img.shields.io/github/stars/vikfp/dotfiles?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/vi4al/dotfiles?color=67b0e8&labelColor=22292b&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/stavkv/dotfiles?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/stavkv/dotfiles?color=67b0e8&labelColor=22292b&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=license&message=GPL3&color=8ccf7e&labelColor=22292b&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/vikfp/dotfiles?color=e74c4c&labelColor=1b2224&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/stavkv/dotfiles?color=e74c4c&labelColor=1b2224&style=for-the-badge">
 </p> 
 
 </br>
